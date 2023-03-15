@@ -1,4 +1,5 @@
 * {
+    margin: 0;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
@@ -6,10 +7,7 @@ header {
         background-color: rgb(43, 226, 58);
         }
 
-main  {
-        margin-bottom: 100px;
 
-}
 
 footer {
         text-align: center;
@@ -96,4 +94,10 @@ button { position: relative;
 
 {
     text-align: center;
+}
+
+#form   {
+
+    background-color: darkolivegreen;
+    height: 200px;
 }
