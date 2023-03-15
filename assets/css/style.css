@@ -5,6 +5,7 @@
 
 header {
         background-color: rgb(43, 226, 58);
+        width: 100%;
         }
 
 
@@ -19,6 +20,9 @@ footer {
         height: 25px;
 }
 
+main{
+        width: 100%;
+}
 h6    {
         margin: 5px 0 0 0;
 }
@@ -99,5 +103,9 @@ button { position: relative;
 #form   {
 
     background-color: darkolivegreen;
-    height: 200px;
+    height: 150px;
+    position: relative;
+    bottom: 25px;
+    width: 100%;
+
 }
