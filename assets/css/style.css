@@ -35,12 +35,13 @@ img     {
 
 h1, nav
 {
-    display: inline;
+    display: inline-block;
 }
 
 nav{
-    position: absolute;
-    right: 25px;
+        padding-top: 10px;
+        float: right;
+        padding-right: 25px;
 }
 
  .navigation
